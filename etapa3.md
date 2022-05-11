@@ -20,7 +20,7 @@
 
 ---
 
-### 5) Faça uma consulta que mostre a quantidade de professores que cada área de desenvolvimento ("design", "infra", "desenvolvimento") possui.
+### 5) Faça uma consulta que mostre a quantidade de professores que cada área ("design", "infra", "desenvolvimento") possui.
 
 ---
 
