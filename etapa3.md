@@ -2,7 +2,7 @@
 
 ## CRUD - Consultas
 
-***Atenção**: todos os comandos bem-sucedidos devem ser documentos e colocados no seu repositório do exercício.*
+***Atenção**: todos os comandos bem-sucedidos devem ser documentados e colocados no seu repositório do exercício.*
 
 ### 1) Faça uma consulta que mostre os alunos que nasceram antes do ano 2009
 
