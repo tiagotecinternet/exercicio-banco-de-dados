@@ -16,11 +16,11 @@
 
 ---
 
-### 4) Faça uma consulta que mostre os nomes somente dos professores da área de desenvolvimento.
+### 4) Faça uma consulta que mostre os nomes dos professores que são somente da área "desenvolvimento".
 
 ---
 
-### 5) Faça uma consulta que mostre a quantidade de professores por área de desenvolvimento.
+### 5) Faça uma consulta que mostre a quantidade de professores que cada área de desenvolvimento ("design", "infra", "desenvolvimento") possui.
 
 ---
 
